@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazorefcore", "blazorefcore.csproj", "{B915E53C-A871-4816-9B69-D5FB6DA9B81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B915E53C-A871-4816-9B69-D5FB6DA9B81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B915E53C-A871-4816-9B69-D5FB6DA9B81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B915E53C-A871-4816-9B69-D5FB6DA9B81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B915E53C-A871-4816-9B69-D5FB6DA9B81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3DCB673-EC89-4B65-8F5F-6F5C43A59757}
+	EndGlobalSection
+EndGlobal
